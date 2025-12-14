@@ -46,21 +46,36 @@ If the AI API quota is exceeded, the system automatically falls back to a keywor
 ---
 
 ## 📂 Project Structure
+
+```
 src/
 ├── app/
-│ ├── page.js
-│ ├── layout.js
-│ └── api/
-│ └── analyze/
-│ └── route.js
+│   ├── page.js
+│   ├── layout.js
+│   └── api/
+│       └── analyze/
+│           └── route.js
 ├── components/
-│ └── MusicPlayer.jsx
+│   └── MusicPlayer.jsx
 ├── data/
-│ └── songs.js
+│   └── songs.js
 public/
 ├── music/
 ├── covers/
 └── bg/
+```
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Chill Mood Playlist
+![Chill Mood](screenshots/chill.png)
+
+### Sad Mood Playlist
+![Sad Mood](screenshots/sad.png)
+
 
 ## ⚙️ Setup Instructions
 
