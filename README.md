@@ -46,4 +46,41 @@ If the AI API quota is exceeded, the system automatically falls back to a keywor
 ---
 
 ## 📂 Project Structure
+src/
+├── app/
+│ ├── page.js
+│ ├── layout.js
+│ └── api/
+│ └── analyze/
+│ └── route.js
+├── components/
+│ └── MusicPlayer.jsx
+├── data/
+│ └── songs.js
+public/
+├── music/
+├── covers/
+└── bg/
 
+## ⚙️ Setup Instructions
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/moodify.git
+
+2. Install dependencies
+    - bash
+    - Copy code
+    - npm install
+
+3. Create a .env.local file in the root directory
+    - env
+    - Copy code
+    - GEMINI_API_KEY=your_api_key_here
+
+ 4. Run the development server
+      - bash
+      - Copy code
+      - npm run dev
+
+  5. Open http://localhost:3000 in your browser
