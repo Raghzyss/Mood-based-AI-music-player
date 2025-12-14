@@ -67,14 +67,17 @@ public/
 D:\Desktop\webdev_ projects\AI-mood-music-player\ai-mood-music-player\Mood-based-AI-music-player\screenshots
 ## 📸 Screenshots
 
+### Home Page
 <p align="center">
   <img src="screenshots/home.png" width="80%" />
 </p>
 
+### Chill Mood Playlist
 <p align="center">
   <img src="screenshots/chill.png" width="80%" />
 </p>
 
+### Sad Mood Playlist
 <p align="center">
   <img src="screenshots/sad.png" width="80%" />
 </p>
